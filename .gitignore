@@ -1,0 +1,14 @@
+*.js
+!jest.config.js
+!eslint.config.mjs
+*.d.ts
+node_modules
+dist
+cdk.out
+coverage
+.cdk.staging
+*.log
+.env
+.env.*
+!.env.example
+.sf
